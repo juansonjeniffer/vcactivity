@@ -29,7 +29,7 @@
 
   <!-- Hero Section -->
   <div class="container text-center mt-5">
-    <h1 class="display-4">Welcome!</h1>
+    <h1 class="display-4">KAMUSTA!</h1>
     <p class="lead">Discover the Undiscovered in the Philippines.</p>
     <button class="btn btn-success btn-lg">Get Started</button>
   </div>
